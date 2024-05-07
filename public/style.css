@@ -1,0 +1,30 @@
+* {box-sizing: border-box;}
+
+body {
+    background-color: lightcoral;
+}
+
+.header {
+    margin-top: 20px;
+}
+
+.headshot {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+footer {
+    margin-top: 100px;
+}
+
+.two {
+    margin-left: 230px;
+}
+
+.link {
+    color: brown;
+}
